@@ -1,6 +1,9 @@
+# Quantification of cardiac capillarization in single-immunostained myocardial slices using weakly supervised instance segmentation
 
 
 
+
+## How to run
 - Step 1. convert the annotation format to COCO format by ``` label_to_coco.ipynb```.
 
 - Step 2. Use roboflow to prepare the augmented data to YOLOv8. We choose random clock rotation and mosic.
