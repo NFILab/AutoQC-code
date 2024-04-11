@@ -19,8 +19,12 @@
 - Step 6. use ```final_eval.ipynb``` for evaluation.
 
 
-
+## YOLO
 For better understand how to train YOLO model, please refer to: [https://blog.roboflow.com/how-to-train-yolov8-on-a-custom-dataset/]
 We are using ```yolov8x.pt```.
 
 '/home/{user_id}/.config/Ultralytics/settings.yaml'
+
+## Segment Anything
+Please refer to the official repo to see how to setup SAM
+[https://github.com/facebookresearch/segment-anything]
