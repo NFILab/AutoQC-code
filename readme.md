@@ -1,6 +1,6 @@
 # Quantification of cardiac capillarization in single-immunostained myocardial slices using weakly supervised instance segmentation
 
-
+![test](https://github.com/XiwenChen-Clemson/AutoQC/blob/main/fIGS/fig3.png)
 
 
 ## How to run
@@ -28,3 +28,7 @@ We are using ```yolov8x.pt```.
 ## Segment Anything
 Please refer to the official repo to see how to setup SAM
 [https://github.com/facebookresearch/segment-anything]
+
+## Some Results
+![test](https://github.com/XiwenChen-Clemson/AutoQC/blob/main/fIGS/fig1.png)
+![test](https://github.com/XiwenChen-Clemson/AutoQC/blob/main/fIGS/fig2.png)
